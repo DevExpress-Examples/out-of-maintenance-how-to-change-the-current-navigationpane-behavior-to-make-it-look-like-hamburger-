@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/WindowsFormsApplication7/Form1.cs) (VB: [Form1.vb](./VB/WindowsFormsApplication7/Form1.vb))
+* [Program.cs](./CS/WindowsFormsApplication7/Program.cs) (VB: [Program.vb](./VB/WindowsFormsApplication7/Program.vb))
+<!-- default file list end -->
 # How to change the current NavigationPane behavior to make it look like "hamburger menu" from mobile applications
 
 <p><b>This example is obsolete. Starting with version 18.1, we introduced a new ViewStyle for the AccordionControl - HamburgerMenu. Please refer to <a href="https://documentation.devexpress.com/WindowsForms/114553/Controls-and-Libraries/Navigation-Controls/Accordion-Control#hamburger_menu">Accordion Control Hamburger menu</a> to learn more.</b></p> 
